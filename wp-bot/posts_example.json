@@ -1,0 +1,14 @@
+[
+  {
+    "title": "First Auto Post",
+    "content": "<p>This is the first post published by the WordPress bot.</p>",
+    "status": "publish",
+    "excerpt": "Auto-posted using the WP Bot"
+  },
+  {
+    "title": "Second Auto Post",
+    "content": "<p>Second post content goes here. <strong>Bold text</strong> works too!</p>",
+    "status": "draft",
+    "excerpt": "This one is saved as a draft"
+  }
+]
